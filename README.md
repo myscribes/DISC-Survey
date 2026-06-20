@@ -1,6 +1,8 @@
 # DISC Introduction: Reflection Survey
 
-Next.js survey app with AWS SES email delivery. When a participant submits, results are emailed to:
+Next.js survey app with AWS SES email delivery.
+
+> v0.1.1 — test GitHub push workflow When a participant submits, results are emailed to:
 
 - The participant (their email address)
 - `surveys@discconnector.com` (admin inbox)
